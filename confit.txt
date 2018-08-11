@@ -1,2 +1,3 @@
 db=test
 host=localhost
+weixinappid='123455'
