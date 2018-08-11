@@ -3,3 +3,5 @@ host=localhost
 ali="阿里111"
 weixinappid='123455'
 郑州
+上海
+北京
