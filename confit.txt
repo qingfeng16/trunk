@@ -1,3 +1,5 @@
 db=test
 host=localhost
 ali="∞¢¿Ô"
+weixinappid='123455'
+
