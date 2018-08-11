@@ -1,5 +1,5 @@
 db=test
 host=localhost
-ali="∞¢¿Ô"
+ali="∞¢¿Ô111"
 weixinappid='123455'
 
